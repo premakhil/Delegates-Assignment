@@ -1,0 +1,14 @@
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\bin\Debug\net6.0\DelegatesAssignment.exe
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\bin\Debug\net6.0\DelegatesAssignment.deps.json
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\bin\Debug\net6.0\DelegatesAssignment.runtimeconfig.json
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\bin\Debug\net6.0\DelegatesAssignment.dll
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\bin\Debug\net6.0\DelegatesAssignment.pdb
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\net6.0\DelegatesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\net6.0\DelegatesAssignment.AssemblyInfoInputs.cache
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\net6.0\DelegatesAssignment.AssemblyInfo.cs
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\net6.0\DelegatesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\net6.0\DelegatesAssignment.dll
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\net6.0\refint\DelegatesAssignment.dll
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\net6.0\DelegatesAssignment.pdb
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\net6.0\DelegatesAssignment.genruntimeconfig.cache
+C:\Users\akhilprem\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\net6.0\ref\DelegatesAssignment.dll
